@@ -18,16 +18,7 @@
     git clone https://github.com/yan-in/optimization-system.git
     cd optimization-system
     ```
-
-2. **Instale as dependências**:
-
-    Certifique-se de que você tem o Python instalado. Em seguida, instale as dependências necessárias:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Execute o programa**:
+3. **Abra a pasta 'dist' e execute o arquivo abaixo como Adminstrador**:
 
     ```bash
     main.exe
@@ -35,7 +26,7 @@
 
 ## Como Usar
 
-- Execute o programa utilizando o comando acima.
+- Execute o programa.
 - A interface gráfica permitirá que você utilize todas as funcionalidades descritas.
 
 ## Contribuição
