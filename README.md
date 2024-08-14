@@ -1,3 +1,7 @@
+https://github.com/user-attachments/assets/3d180b01-a670-46cf-9d1d-c4eb1647f518
+
+
+
 # Optimization System
 
 **Optimization System** é uma ferramenta poderosa desenvolvida em Python utilizando a biblioteca **CustomTkinter**. O objetivo deste projeto é otimizar o desempenho do Windows 10/11, oferecendo uma interface gráfica intuitiva e personalizável.
