@@ -3,11 +3,11 @@
 **Optimization System** é um aplicativo desenvolvido em Python utilizando a biblioteca **CustomTkinter**. Este projeto visa otimizar operações específicas e facilitar o uso por meio de uma interface gráfica de usuário (GUI) personalizada.
 
 ## Funcionalidades
-
-- Interface gráfica com botões personalizados.
-- Possibilidade de customização dos botões (cores, alinhamento, etc.).
+- Desativar Funções inuteis do Windows 10/11
+- Acelerar o computador
+- Interface gráfica com botões selecionaveis.
+- Possibilidade de adicionar mais Desempenho ao seu computador.
 - Inclusão de botões para **GitHub**, **Discord**, e **Doações**.
-- Alteração do ícone da janela.
 - Botão "Sobre" para mais informações sobre o programa.
 
 ## Instalação
